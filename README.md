@@ -1,8 +1,8 @@
 # Hitokoto Database
 
 ## Description
-This is a database for storing hitokoto by using MongoDB.
-Originally, this project is inspired by [hitokoto.cn](https://hitokoto.cn/)
+This is a database for storing hitokoto by using MongoDB.\
+Originally, this project is inspired by [hitokoto.cn](https://hitokoto.cn/)\
 The original git repository is hosted on [GitHub](https://github.com/hitokoto-osc/sentences-bundle).
 
 ## Getting Started
