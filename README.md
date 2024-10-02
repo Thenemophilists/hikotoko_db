@@ -1,4 +1,7 @@
 # Hitokoto Database
+![GitHub Repo stars](https://img.shields.io/github/stars/Thenemophilists/hikotoko_db?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Thenemophilists/hikotoko_db?style=flat-square)
+![GitHub License](https://img.shields.io/github/license/Thenemophilists/hikotoko_db?style=flat-square)
 
 ## Description
 This is a database for storing hitokoto by using MongoDB.\
